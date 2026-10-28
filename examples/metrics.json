@@ -1,0 +1,16 @@
+{
+  "synthetic": true,
+  "kpi": {
+    "completed_lines": 17713,
+    "completed_units": 35557,
+    "net_cents": 46737350
+  },
+  "forecast": {
+    "available": true,
+    "holdout_days": 14,
+    "train_days": 76,
+    "mean_mae_usd": 276.43,
+    "weekly_repeat_mae_usd": 454.21,
+    "note": "Synthetic-data baseline evaluation, not real demand prediction."
+  }
+}
